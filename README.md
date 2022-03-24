@@ -1,7 +1,7 @@
 ### Hello! I'm Graziela Diehl 👋👩‍💻
 
-- I'm currently working with front-end
-- I'm studying React
+- I'm a front-end developer
+- Learning React
 - Pronouns: she/her
 
 
