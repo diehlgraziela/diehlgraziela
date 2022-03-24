@@ -2,6 +2,7 @@
 
 <a href="https://br.linkedin.com/in/graziela-diehl" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+<h1></h1>
 <div>
 <img align=left src="https://user-images.githubusercontent.com/86322489/159967358-8e245b48-ee91-4130-afbf-6ba545924985.gif" width="150" />
   <p><img width="30" src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47thrr64op7l3nlzqnvoho7a8uil9zyivtylr82t36&rid=giphy.gif&ct=g"/><em> I'm a front-end Developer working in Brazil.</em></p>
