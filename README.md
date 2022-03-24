@@ -1,6 +1,5 @@
 <h1>Hello there :D</h1>
 
-<h1></h1>
 <div>
 <img align=left src="https://user-images.githubusercontent.com/86322489/159967358-8e245b48-ee91-4130-afbf-6ba545924985.gif" width="150" />
   <p><img width="30" src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47thrr64op7l3nlzqnvoho7a8uil9zyivtylr82t36&rid=giphy.gif&ct=g"/><em> I'm a front-end Developer working in Brazil.</em></p>
@@ -11,6 +10,7 @@
 <br>
 <br>
 
+<h1></h1>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
