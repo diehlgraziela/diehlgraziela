@@ -6,8 +6,7 @@
   <p> 📖 I’m currently learning React.</p>
 </div>
 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" list-style=none/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
     
 
