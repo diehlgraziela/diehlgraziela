@@ -2,7 +2,7 @@
 
 <div>
 <img align=left src="https://user-images.githubusercontent.com/86322489/159967358-8e245b48-ee91-4130-afbf-6ba545924985.gif" width="150" height="150" />
-  <p><img width="30" src="https://user-images.githubusercontent.com/86322489/159972271-2c6a8581-b41c-4fd9-864d-ad2c41dd4f92.gif"/> I'm a front-end Developer working in Brazil.</p>
+  <p><img width="30" src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47thrr64op7l3nlzqnvoho7a8uil9zyivtylr82t36&rid=giphy.gif&ct=g"/> I'm a front-end Developer working in Brazil.</p>
   <p> 📖 I’m currently learning React.</p>
 </div>
 
