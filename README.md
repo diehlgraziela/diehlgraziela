@@ -3,7 +3,7 @@
 <div>
 <img align=left src="https://user-images.githubusercontent.com/86322489/159967358-8e245b48-ee91-4130-afbf-6ba545924985.gif" width="150" height="150" />
   <p><img width="30" src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47thrr64op7l3nlzqnvoho7a8uil9zyivtylr82t36&rid=giphy.gif&ct=g"/> I'm a front-end Developer working in Brazil.</p>
-  <p><img width="30" src="https://giphy.com/embed/2xnO6tTIYYFE2j3IqQ"/> I’m currently learning React.</p>
+  <p><img width="30" src="https://media3.giphy.com/media/2xnO6tTIYYFE2j3IqQ/giphy.gif?cid=ecf05e47jo6ivbnx3gcditmecmjolr01zz3r7guwwd80a4cc&rid=giphy.gif&ct=g"/> I’m currently learning React.</p>
 </div>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
